@@ -1,22 +1,23 @@
-INSTAGRAM ID JUST NOW LOGIN TOOLS
-•pkg install python
+## INSTAGRAM ID JUST NOW LOGIN TOOLS
 
-•`pkg install python2`
+`pkg install python`
 
-•`pkg install git`
+`pkg install python2`
 
-•`pip2 install requests`
+`pkg install git`
 
-•`pip2 install mechanize`
+`pip2 install requests`
 
-•`pip install requests`
+`pip2 install mechanize`
 
-•`pip install mechanize`
+`pip install requests`
 
-•`rm -rf Insta`
+`pip install mechanize`
 
-•`git clone https://github.com/MAHADI-143/Insta`
+`rm -rf Insta`
 
-•`cd Insta`
+`git clone https://github.com/MAHADI-143/Insta`
 
-•`python insta.py`
+`cd Insta`
+
+`python insta.py`
