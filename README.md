@@ -16,7 +16,7 @@
 
 `rm -rf INSTA`
 
-`git clone https://github.com/MAHADI-143/INSTA.git
+`git clone https://github.com/MAHADI-143/INSTA.git`
 
 `cd INSTA`
 
