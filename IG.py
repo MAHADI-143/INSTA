@@ -16,9 +16,9 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from IG64 import __main__
+        from IG64 import login_kamu
  
-        __main__()
+        login_kamu()
  
  
  
