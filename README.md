@@ -14,3 +14,4 @@ pkg install git
 git clone https://github.com/MAHADI-143/INSTA.git
 cd INSTA
 python3 IG.py
+
