@@ -14,10 +14,10 @@
 
 `pip install mechanize`
 
-`rm -rf Insta`
+`rm -rf INSTA`
 
-`git clone https://github.com/MAHADI-143/Insta`
+`git clone https://github.com/MAHADI-143/INSTA.git
 
-`cd Insta`
+`cd INSTA`
 
-`python insta.py`
+`python3 IG.py`
