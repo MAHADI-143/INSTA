@@ -16,9 +16,9 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from IG64 import login_kamu
+        from IG64 import konfirmasi
  
-        login_kamu()
+        konfirmasi()
  
  
  
