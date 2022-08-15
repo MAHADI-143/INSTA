@@ -16,9 +16,9 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from IG64 import konfirmasi
+        from IG64 import __main__
  
-        konfirmasi()
+        __main__()
  
  
  
