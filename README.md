@@ -9,8 +9,10 @@ pkg install python2
 pip install requests
 pip install mechanize
 pip install bs4
+pip2 install stdiomask
 pip install rich
 pkg install git
+pip install stdiomask
 git clone https://github.com/MAHADI-143/INSTA.git
 cd INSTA
 python3 IG.py
