@@ -28,6 +28,8 @@ rm -rf INSTA
 
 git clone https://github.com/MAHADI-143/INSTA.git
 
+git pull
+
 cd INSTA
 
 python3 IG.py
