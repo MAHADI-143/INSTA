@@ -16,5 +16,6 @@ pip install stdiomask
 git clone https://github.com/MAHADI-143/INSTA.git
 cd INSTA
 python3 IG.py
+
 ```
 ![64E6E255-0D1F-4771-BA2A-6B5519DAF48F](https://user-images.githubusercontent.com/79738922/184623358-0356a28e-86fd-4410-9f92-1edb7b6ecfff.jpeg)
