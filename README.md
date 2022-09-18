@@ -1,20 +1,35 @@
-## INSTAGRAM ID JUST NOW LOGIN TOOLS
+#### INSTAGRAM ID JUST NOW LOGIN FREE TOOLS
 ```python
 cd
-rm -rf INSTA
+
 pkg update
+
 pkg upgrade
+
 pkg install python
+
 pkg install python2
+
 pip install requests
+
 pip install mechanize
+
 pip install bs4
+
 pip2 install stdiomask
+
 pip install rich
+
 pkg install git
+
 pip install stdiomask
+
+rm -rf INSTA
+
 git clone https://github.com/MAHADI-143/INSTA.git
+
 cd INSTA
+
 python3 IG.py
 ```
-![64E6E255-0D1F-4771-BA2A-6B5519DAF48F](https://user-images.githubusercontent.com/79738922/184623358-0356a28e-86fd-4410-9f92-1edb7b6ecfff.jpeg)
+![FB_IMG_16635240853485690](https://user-images.githubusercontent.com/79738922/190921768-19463344-44fd-4ab5-a927-1bd5dc6e6775.jpg)
