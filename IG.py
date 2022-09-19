@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from IG import mahadi
+        from INSTA import mahadi
  
  
         mahadi()
