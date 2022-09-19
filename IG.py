@@ -16,16 +16,16 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from i import mahadi
+        from i import fuck
  
-        mahadi()
+        fuck()
  
  
  
 elif bit == "32bit":
  
-        from IG import mahadi
+        from IG import fuck
  
  
-        mahadi()
+        fuck()
  
